@@ -1,0 +1,28 @@
+.containerTrends { margin: 80px 20px  0px 20px; }
+
+.containerTrends .containerBox { border-radius: 18px; background-color: #f7f7f9; cursor: pointer; }
+
+.containerTrends .containerBox .listTrends { padding: 12px 16px; }
+
+.containerTrends .containerBox .listTrends .itemTrends { display: -webkit-box; display: -ms-flexbox; display: flex; height: 23px; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }
+
+.containerTrends .containerBox .listTrends .itemTrends .descriptionTrends { font-size: 20px; height: 23px; }
+
+.containerTrends .containerBox .listTrends .itemTrends .iconTrends { width: 30px; height: 100%; }
+
+.containerTrends .containerBox .listTrends .itemTrends .iconTrends span svg { -webkit-transform: scale(0.95); transform: scale(0.95); }
+
+.containerTrends .containerBox .listTrendsItem { height: 80px; padding: 12px 16px; }
+
+.containerTrends .containerBox .listTrendsItem:hover { background-color: rgba(158, 158, 158, 0.1); }
+
+.containerTrends .containerBox .listTrendsItem .descriptionTrendsItem .tipoTrend { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; font-size: 13px; }
+
+.containerTrends .containerBox .listTrendsItem .descriptionTrendsItem .tipoTrend .iconTrend { width: 23px; height: 23px; }
+
+.containerTrends .containerBox .listTrendsItem .descriptionTrendsItem .nameTrend { font-style: 14px; font-weight: bold; }
+
+.containerTrends .containerBox .listTrendsItem .descriptionTrendsItem .numTweets { font-size: 13px; }
+
+.containerTrends .containerBox .listTrendsFooter { padding: 12px 16px; font-size: 13px; }
+/*# sourceMappingURL=trends.css.map */

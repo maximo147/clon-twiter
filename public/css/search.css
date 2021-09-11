@@ -1,0 +1,20 @@
+.containerSearchMain { width: 30%; height: 40px; font-family: 'Nunito Sans', sans-serif; }
+
+.containerSearchMain .containerSearch { height: 100%; margin: 7px 7px 0 20px; }
+
+.containerSearchMain .containerSearch .search { width: 100%; height: 100%; background-color: #eff3f4; border-radius: 30px; }
+
+.containerSearchMain .containerSearch .search .searchInput { width: 100%; height: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerLupa { width: 44px; height: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; padding-left: 12px; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerLupa .lupa { width: 32px; height: 18.75px; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerLupa .lupa g { -webkit-transform: scale(0.7); transform: scale(0.7); height: 18.75px; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerInput { width: 100%; margin-right: 25px; height: 18px; -ms-flex-line-pack: center; align-content: center; display: -webkit-box; display: -ms-flexbox; display: flex; margin-top: auto; margin-bottom: auto; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerInput .divInput { width: 100%; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
+
+.containerSearchMain .containerSearch .search .searchInput .containerInput .divInput input { background-color: #eff3f4; padding: 0px 10px; width: 100%; background-color: re; outline: none; border: none; }
+/*# sourceMappingURL=search.css.map */

@@ -1,0 +1,332 @@
+.cuadrogeneral{
+    width: 100%;
+    height: 100vh;
+}
+
+.cuadro1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: white;
+    width: 550px;
+    height: 170px;
+}
+
+.cuadro2 {
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    background-color:whitesmoke;
+    width: 550px;
+    height: 330px;
+}
+
+.cuadro3{
+
+    position: absolute;
+    top: 550px;
+    left: 20px;
+    background-color: white;
+    width: 550px;
+    height: 350px;
+}
+
+
+.listafija {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+ 
+}
+.nuevalista {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tulista {
+color:black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: bold;
+}
+
+h1.nota{
+    color:gray;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Arial;
+    position: relative;
+    top: 75px;
+    left: 35px;
+    padding: 0.5px 1px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+.listanum1 {
+    background-color: white;
+    width: 550px;
+    height: 80px;
+    position:absolute;
+    top: 30px;
+    left: 0px;
+
+}
+.listanum1:hover {
+    cursor: pointer;
+    background-color: rgba(209, 209, 209, 0.583);
+}
+
+
+.listanum2 {
+    width: 550px;
+    height: 80px ;
+    position: relative;
+    top: 85px;
+    left: 0px;
+
+}
+.listanum2:hover {
+    cursor: pointer;
+    background-color: rgba(209, 209, 209, 0.583);
+}
+.listanum3 {
+    width: 550px;
+    height: 80px ;
+    position: relative;
+    top: 85px;
+    left: 0px;
+}
+.listanum3:hover {
+    cursor: pointer;
+    background-color: rgba(209, 209, 209, 0.583);
+}
+.imagen1 {
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    left: 0px;
+}
+
+.imagen3 {
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    left: 0px;
+}
+
+.imagen2{
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+}
+
+.imagen1-1 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+}
+.imagen3-1 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+}
+.perfil1 {
+    background-color: chartreuse;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: -15px;
+    left: 65px;
+    border-radius: 50px;
+}
+ 
+.perfil2 {
+    background-color: chartreuse;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: -15px;
+    left: 65px;
+    border-radius: 50px;
+}
+
+.perfil3 {
+    background-color: chartreuse;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: -15px;
+    left: 65px;
+    border-radius: 50px;
+}
+
+.contenido1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: -15px;
+    left: 10px;
+}
+
+.usuario1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+    left: -15px;
+    
+}
+.usuario1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+.usuario2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+    left: -75px; 
+}
+.usuario2:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.usuario3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+    left: -135px; 
+}
+.usuario3:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+h1 {
+    color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 10px;
+    left: 25px;
+
+
+}
+
+.boxing1 {
+    background-color: black;
+    width: 90px;
+    height: 35px;
+    border-radius: 20px;
+    position: relative;
+    top: -70px;
+    left: 450px;
+    cursor: pointer;
+    white-space: inherit;
+
+   
+}
+
+.boxing1:hover {
+    background-color:gray;
+
+}
+
+.id1 {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: italic; 
+    position: relative;
+    top: 5px;
+    left: -15px;
+}
+
+.id2 {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+    left: -75px;
+
+}
+
+.id3 {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+    left: -135px;
+
+}
+
+
+
+.Cmostrar {
+    background-color:white;
+    position: relative;
+    top: 85px;
+    left:0px;
+    height: 55px;
+    width: 550px;
+}
+.Cmostrar:hover{
+    cursor: pointer;
+    background-color:aliceblue;
+}
+.MostrarListas {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    color: rgb(29, 155, 240);
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+
+.ver {
+    background-color:white;
+    height: 105px;
+    width: 510px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+.info{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   font-style: normal;
+   color: gray;
+   position: relative;
+   top: 35px;
+   left: 0px;
+   font-style: inherit;
+}

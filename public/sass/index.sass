@@ -1,0 +1,69 @@
+
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+    font-family: 'Nunito Sans', sans-serif
+.container-index
+    width: 100%
+    display: flex
+    .container-left
+        max-height: 100%
+        height: 100vh
+        bottom: 0
+        width: 320px
+        position: fixed
+        border-right: 1px solid rgba(239, 243, 244, 1.0)
+    .container-main
+        margin-left: auto
+        margin-right: auto
+        display: flex
+        position: absolute
+        left: 320px
+        width: calc(100% - 320px)
+        .container-section
+            display: flex
+            width: calc(100%)
+            .container-medium
+                width: calc(60%)
+                position: relative
+                .container-header-post
+                    position: sticky
+                    z-index: 2
+                    top: 0
+                    width: 100%
+                    height: 53px
+                .containerPostPublish
+                    overflow-y: scroll
+                    position: relative
+                    .containerPublish
+                        width: 100%
+                        height: 120px
+                    .container-posts
+            .container-right
+                // background-color: purple
+                border-left: 1px solid rgba(239, 243, 244, 1.0)
+                position: fixed
+                width: calc(40% - 128px)
+                overflow-y: scroll
+                overflow-x: hidden
+                left: calc( 60% + 128px)
+                top: 0
+                bottom: 0
+                max-height: 100%
+                height: calc( 100% )
+                overflow-y: scroll
+                // max-height: 700px
+                .container-header-right
+                    position: fixed
+                    width: 100%
+                    height: 53px
+                    background-color: #fff
+                    z-index: 1
+                .containerSectionFollow
+                    // position: absolute
+                .containerFooter
+
+::-webkit-scrollbar
+    width: 0.3px
+    // background-color: red
